@@ -6,7 +6,7 @@ title:  Page Two
 # {{ page.title }}
 
 
-Another sample page.
+This is page two. It's twice the page page one was.
 
-_Add your text here_
+_Page One is soooooo 1998. Let's sell some old mics to Grandpa on AOL Classifieds._
 
