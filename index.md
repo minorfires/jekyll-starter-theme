@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Welcome
+title:  You're no longer welcome.
 ---
 
 # {{ page.title }}
@@ -20,7 +20,7 @@ paragraphs, lists, blockquotes, tables, etc.
 This is a paragraph (in Markdown). Some more
 text here.
 
-This is another paragraph.
+This is another paragraph. Actually, it's just a sentence. A life sentence. Now we're getting closer to being a paragraph.
 
 This is a list:
 
