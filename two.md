@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Page Two
+title:  Page The Second
 ---
 
 # {{ page.title }}
@@ -8,5 +8,5 @@ title:  Page Two
 
 This is page two. It's twice the page page one was.
 
-_Page One is soooooo 1998. Let's sell some old mics to Grandpa on AOL Classifieds._
+_Page One is soooooo 1997. Let's sell some old mics to Grandpa on AOL Classifieds._
 

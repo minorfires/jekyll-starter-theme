@@ -6,7 +6,7 @@ title:  You're no longer welcome.
 # {{ page.title }}
 
 
-_Add your text here_
+_Abandon text, embrace trends._
 
 
 What's Markdown (`.md`)?
